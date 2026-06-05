@@ -203,7 +203,7 @@ export const botConfig = {
     // Category ID where new tickets are created (null = no forced category).
     defaultCategory: null,
 
-    // Role IDs allowed to manage/support tickets.
+    // Role IDs allowed to manage/بەخێربین بۆ رۆغزای کوردستان.
     supportRoles: [],
 
     // Priority options users/staff can assign.
